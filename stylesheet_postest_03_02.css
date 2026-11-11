@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+}
+.kartu {
+    width: 300px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: white;
+    border: 2px solid #2e86c1;
+    border-radius: 10px;
+    text-align: center;
+}
+h1 {
+    color: #2e86c1;
+}
+p {
+    color: #555555;
+}
+.tombol {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #2e86c1;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.tombol:hover {
+    background-color: #1b4f72;
+}
